@@ -7,7 +7,7 @@ Repository for my C++ Now 2019 talks.
 
 * [Slides](https://github.com/SuperV1234/cppnow2019/blob/master/higher_order_functions_and_function_ref/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=5V74RPUEu5s)
 
 ## Putting `integer_sequence` on a diet
 
@@ -17,5 +17,5 @@ Repository for my C++ Now 2019 talks.
 
 * [Slides](https://github.com/SuperV1234/cppnow2019/blob/master/putting_integer_sequence_on_a_diet/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=BlAlWYBR_-8)
 
